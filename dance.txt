@@ -2,3 +2,4 @@ step left
 stel right
 jump up and down
 turn around
+twirl hands
